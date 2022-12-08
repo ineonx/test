@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<p style,' font - family: impact;"> font </p>
+<p style="font - size: 12pt;">velioina fonta</p> 
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>font teksta</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

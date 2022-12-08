@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<p>Arial, Tekst prije Div-a</p>
+<Div style="font-family: Comic Suns MS;">
+<h2>Naslov poglavlja</h2>
+<p>Comic Suns MS</p>
+</div>
+<p>Arial,tekst poslije diva</p>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>promjena PARAMETARA UNUTAR GRUPE</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

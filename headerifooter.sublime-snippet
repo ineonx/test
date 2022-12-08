@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<header>
+<span style="color:gray; font style:italic;">iznad
+naslova </span>
+</header>
+<footer>
+<span style="color:grey;font-style:italic;">ispod
+teksta</spam>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>header i footer </tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

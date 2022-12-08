@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<h1 style="text - indent:55px;">uvlacenje teksta</h1>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>uvlacenje teksta</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

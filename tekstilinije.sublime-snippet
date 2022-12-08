@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<h2 style="tekst-decorate:overline( underline - linija ispod teksta,line through - precrtan tekst);">
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tekst i linije</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

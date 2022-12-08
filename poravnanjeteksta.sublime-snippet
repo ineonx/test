@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+
+<h1 style="text-align : left;"> Lijevo ( right,center,justify ) </h1>
+
+]]></content>
+  <tabTrigger>poravnanje teksta</tabTrigger>
+  <description></description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>
